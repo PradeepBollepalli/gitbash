@@ -1,3 +1,6 @@
 hello 
 git restore restore.txt
 git restore --staged restore.txt
+git restore restore.txtgit restore 
+git restore --staged restore.txt
+bhhhhh
