@@ -1,0 +1,3 @@
+hello 
+git restore restore.txt
+git restore --staged restore.txt
