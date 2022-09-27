@@ -2,3 +2,4 @@ hi hello
 hoe r uuuuu
 jjsgksjshs
 git pull
+remote location
